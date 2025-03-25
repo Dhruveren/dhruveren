@@ -6,10 +6,8 @@ I’m a **Computer Science student** and a **full-stack developer** currently pu
 
 ## About Me
 
-- 
-
 - 🌟 **Technologies**: Proficient in Next.js, TypeScript, Python, and more—turning ideas into scalable, user-centric applications.
-- - 🚀 **Projects**: Built standout creations like *Medium2* (blogging platform), *RSVP* (event management), and *AI Chatbot* (smart interaction tool).
+- 🚀 **Projects**: Built standout creations like *Medium2* (blogging platform), *RSVP* (event management), and *AI Chatbot* (smart interaction tool).
 - 🛠️ **Problem Solver**: Conquered 300+ DSA challenges on LeetCode, honing my coding precision.
 - 🎯 **Teamwork**: Collaborative spirit with a flair for organizing tech events and driving group projects to success.
 - ⚡ **Certificates**: Certified in full-stack dev (100xDevs, Udemy) and always exploring the next big thing in tech.
